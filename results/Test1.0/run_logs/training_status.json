@@ -1,0 +1,47 @@
+{
+    "AttackEnemy": {
+        "checkpoints": [
+            {
+                "steps": 53,
+                "file_path": "results\\Test1.0\\AttackEnemy\\AttackEnemy-53.onnx",
+                "reward": 0.0,
+                "creation_time": 1650402007.171143,
+                "auxillary_file_paths": [
+                    "results\\Test1.0\\AttackEnemy\\AttackEnemy-53.pt"
+                ]
+            },
+            {
+                "steps": 53,
+                "file_path": "results\\Test1.0\\AttackEnemy\\AttackEnemy-53.onnx",
+                "reward": null,
+                "creation_time": 1650402604.5474203,
+                "auxillary_file_paths": [
+                    "results\\Test1.0\\AttackEnemy\\AttackEnemy-53.pt"
+                ]
+            },
+            {
+                "steps": 53,
+                "file_path": "results\\Test1.0\\AttackEnemy\\AttackEnemy-53.onnx",
+                "reward": null,
+                "creation_time": 1650402778.260559,
+                "auxillary_file_paths": [
+                    "results\\Test1.0\\AttackEnemy\\AttackEnemy-53.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 53,
+            "file_path": "results\\Test1.0\\AttackEnemy.onnx",
+            "reward": null,
+            "creation_time": 1650402778.260559,
+            "auxillary_file_paths": [
+                "results\\Test1.0\\AttackEnemy\\AttackEnemy-53.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

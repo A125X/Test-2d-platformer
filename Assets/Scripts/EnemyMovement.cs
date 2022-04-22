@@ -60,7 +60,7 @@ public class EnemyMovement : MonoBehaviour
 
     void Update()
     {
-        bool flag = isGrounded();
+        //bool flag = isGrounded();
         timer += Time.deltaTime;
         //horisontalInput = Input.GetAxis("Horizontal");
         horisontalInput = (inputValues[0] - 0.5f) * 2f;

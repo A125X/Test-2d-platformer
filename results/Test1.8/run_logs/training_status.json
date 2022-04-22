@@ -1,0 +1,29 @@
+{
+    "AttackEnemy": {
+        "checkpoints": [
+            {
+                "steps": 97184,
+                "file_path": "results\\Test1.8\\AttackEnemy\\AttackEnemy-97184.onnx",
+                "reward": 0.0,
+                "creation_time": 1650410234.9890764,
+                "auxillary_file_paths": [
+                    "results\\Test1.8\\AttackEnemy\\AttackEnemy-97184.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 97184,
+            "file_path": "results\\Test1.8\\AttackEnemy.onnx",
+            "reward": 0.0,
+            "creation_time": 1650410234.9890764,
+            "auxillary_file_paths": [
+                "results\\Test1.8\\AttackEnemy\\AttackEnemy-97184.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
